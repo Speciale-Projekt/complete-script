@@ -1,12 +1,12 @@
 [submodule "p10/openthread"]
 	path = p10/openthread
-	url = git@github.com:Speciale-Projekt/openthread.git
+	url = https://github.com/Speciale-Projekt/aflnet/tree/testing/ot
 [submodule "p10/aflnet"]
 	path = p10/aflnet
-	url = git@github.com:Speciale-Projekt/aflnet.git
+	url = https://github.com/Speciale-Projekt/openthread/tree/testing/aflnet-error
 [submodule "p10/PythonCake"]
 	path = p10/PythonCake
-	url = git@github.com:Speciale-Projekt/PythonCake.git
+	url = https://github.com/Speciale-Projekt/PythonCake
 [submodule "p10/CCookie"]
 	path = p10/CCookie
 	url = https://github.com/Speciale-Projekt/CCookie
